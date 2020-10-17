@@ -1,12 +1,7 @@
 Name,#MACS(Billions),Top-1-Accuracy
-MobileNet-V2-0.35,0.011,45.5
-FBNet-96-0.35,0.137,51.9
 MobileNet-V1-224,0.569,70.6
 GoogLeNet,1.55,69.8
 VGG16,15.3,71.5
-MobileNet-160,0.076,60.2
-SqueezeNet,1.7,57.5
-AlexNet,0.72,57.2
 MobileNet-V2,0.3,72
 MobileNet-V2,0.585,74.7
 ResNet-50,4.1,77.1
