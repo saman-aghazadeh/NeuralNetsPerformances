@@ -1,11 +1,9 @@
 Name,#MACS(Billions),Top-1-Accuracy
 SwiftNet-128-0.4,0.053,64.28
 NasNet-C,0.558,72.5
-Amoeba-B,0.555,74
 Amoeba-C,0.570,75.4
 PNAS,0.588,74.2
 DARTS,0.595,73.1
-RandWire-WS,0.583,74.7
 RandWire-WS,4,79
 RandWire-WS,7.9,80.1
 RandWire-WS,16,81.6
